@@ -29,6 +29,8 @@ javac --version
 
 Pin the version using a `.java-version` file
 
+I also was able to install openjdk from `brew` and add it to `jenv`.
+
 ## Running java programs
 
 Code is stored in `src/com/craftinginterpeters/lox` (will probably restructure), and
