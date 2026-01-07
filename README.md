@@ -39,8 +39,6 @@ has a package `com.craftinginterpeters.lox`.
 To build and run:
 
 ```sh
-cd src/com/craftinginterpreters/lox
-javac Lox.java
-cd <root>/src
-java com.craftinginterpreters.lox.Lox
+./compile.sh
+./run.sh
 ```
