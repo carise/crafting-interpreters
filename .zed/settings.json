@@ -1,0 +1,14 @@
+{
+  "lsp": {
+    "jdtls": {
+      "settings": {
+        "java": {
+          "project": {
+            "sourcePaths": ["src"],
+            "outputPath": "bin",
+          },
+        },
+      },
+    },
+  },
+}
